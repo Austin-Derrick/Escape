@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Escape.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0994AC52-9BA5-4207-819C-6F2568559A9B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Escape.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EscapeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FD1F85BD-D40F-4AE0-8A7B-636753B04E70}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Escape">
+      <UniqueIdentifier>{F7B1AB25-2DA5-4AC1-BB13-186EC15CC9B4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Escape\Escape.Build.cs">
+      <Filter>Source\Escape</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Escape\Escape.cpp">
+      <Filter>Source\Escape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Escape\Escape.h">
+      <Filter>Source\Escape</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Escape\EscapeGameModeBase.cpp">
+      <Filter>Source\Escape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Escape\EscapeGameModeBase.h">
+      <Filter>Source\Escape</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

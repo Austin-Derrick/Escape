@@ -1,0 +1,3 @@
+C:\Users\Austi\OneDrive\Documents\GitHub\Escape\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\Definitions.Escape.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
